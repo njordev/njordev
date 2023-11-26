@@ -8,4 +8,3 @@
 
 📫 Feel free to reach out to me through my GitHub for any potential collaborations or to chat about our shared interests. I'm always open to connecting with others in the community.
 
-For more about my work, check out my website: [Produktvideo Weis & Weis Media](https://produktvideo.weisundweis-media.de/)

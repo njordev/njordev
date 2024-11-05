@@ -1,10 +1,9 @@
 👋 Hi, I'm @njordev!
 
-👀 I'm a creative individual with a focus on product videos. I work primarily with Blender and have a strong interest in 3D modeling and animation.
+👀 I'm an IT Specialist trainee in Application Development (Fachinformatiker Anwendungsentwicklung) with a strong focus on programming in Java. I'm also exploring other languages like C, C++, and TypeScript.
 
-🌱 At the moment, I'm broadening my skills by learning to program. I'm always ready for new challenges and look forward to advancing in this new field.
+🌱 I'm expanding my skills in IT and programming, with a keen interest in building secure software structures, cybersecurity, and malware analysis. Additionally, I have a background in 3D modeling and animation, primarily using Blender.
 
-💞️ I'm looking to collaborate on exciting projects, especially if they involve 3D modeling, animation, or programming.
+💞️ I'm looking to collaborate and learn through innovative projects, particularly those that involve secure software design and development. I'm always eager to take on new challenges and grow my expertise.
 
-📫 Feel free to reach out to me through my GitHub for any potential collaborations or to chat about our shared interests. I'm always open to connecting with others in the community.
-
+📫 Feel free to reach out to me on GitHub to discuss shared interests. I’m always excited to connect with like-minded individuals in the community.
